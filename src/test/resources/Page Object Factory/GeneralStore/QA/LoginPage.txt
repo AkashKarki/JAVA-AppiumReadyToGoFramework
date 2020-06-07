@@ -1,0 +1,5 @@
+LoginPageLabel: xpath : //android.widget.TextView[@text='General Store']
+CountyDropdown: id : android:id/text1
+CountyList: classname : android.widget.ListView
+NameField: classname : android.widget.EditText
+ErrorToastMsg: xpath : //android.widget.Toast

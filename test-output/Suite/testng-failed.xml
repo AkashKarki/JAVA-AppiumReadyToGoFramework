@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="DeviceName" value="TestEmulator2"/>
+  <listeners>
+    <listener class-name="AppiumTests.extentReport.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="Tests">
+    <parameter name="DeviceName" value="TestEmulator1"/>
+    <classes>
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2"/>
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest"/>
+    </classes>
+  </test> <!-- Tests -->
+  <test thread-count="1" name="Test1">
+    <parameter name="DeviceName" value="TestEmulator2"/>
+    <classes>
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2"/>
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Tests(failed)">
+    <parameter name="DeviceName" value="TestEmulator1"/>
+    <classes>
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest">
+        <methods>
+          <include name="Step3_Verify_Error_Message_On_Incorrect_Info"/>
+          <include name="Step8_Click_Send_Me_Email_And_Verify_Satus"/>
+          <include name="Step2_Verify_User_is_Able_To_Login"/>
+          <include name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount"/>
+          <include name="Step9_Click_Visit_To_Website_Button"/>
+          <include name="Step10_Switch_To_Web_View"/>
+          <include name="Step6_Verify_Price_Of_Product_On_Check_Out_Page"/>
+          <include name="Step1_Verify_User_is_On_Application"/>
+          <include name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page"/>
+          <include name="TerminnateSession"/>
+          <include name="TerminnateSession"/>
+          <include name="Step4_Verify_User_Able_To_Add_Product_To_Cart"/>
+        </methods>
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest -->
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2">
+        <methods>
+          <include name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount"/>
+          <include name="Step2_Verify_User_is_Able_To_Login"/>
+          <include name="TerminnateSession"/>
+          <include name="TerminnateSession"/>
+          <include name="Step1_Verify_User_is_On_Application"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="Step6_Verify_Price_Of_Product_On_Check_Out_Page"/>
+          <include name="Step9_Click_Visit_To_Website_Button"/>
+          <include name="Step3_Verify_Error_Message_On_Incorrect_Info"/>
+          <include name="CloseEmulator"/>
+          <include name="CloseEmulator"/>
+          <include name="Step4_Verify_User_Able_To_Add_Product_To_Cart"/>
+          <include name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page"/>
+          <include name="Step10_Switch_To_Web_View"/>
+          <include name="Step8_Click_Send_Me_Email_And_Verify_Satus"/>
+        </methods>
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest2 -->
+    </classes>
+  </test> <!-- Tests(failed) -->
+  <test name="Test1(failed)">
+    <parameter name="DeviceName" value="TestEmulator2"/>
+    <classes>
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest">
+        <methods>
+          <include name="Step3_Verify_Error_Message_On_Incorrect_Info"/>
+          <include name="Step8_Click_Send_Me_Email_And_Verify_Satus"/>
+          <include name="Step2_Verify_User_is_Able_To_Login"/>
+          <include name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount"/>
+          <include name="Step9_Click_Visit_To_Website_Button"/>
+          <include name="Step10_Switch_To_Web_View"/>
+          <include name="Step6_Verify_Price_Of_Product_On_Check_Out_Page"/>
+          <include name="Step1_Verify_User_is_On_Application"/>
+          <include name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page"/>
+          <include name="TerminnateSession"/>
+          <include name="TerminnateSession"/>
+          <include name="Step4_Verify_User_Able_To_Add_Product_To_Cart"/>
+        </methods>
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest -->
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2">
+        <methods>
+          <include name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount"/>
+          <include name="Step2_Verify_User_is_Able_To_Login"/>
+          <include name="TerminnateSession"/>
+          <include name="TerminnateSession"/>
+          <include name="Step1_Verify_User_is_On_Application"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="Step6_Verify_Price_Of_Product_On_Check_Out_Page"/>
+          <include name="Step9_Click_Visit_To_Website_Button"/>
+          <include name="Step3_Verify_Error_Message_On_Incorrect_Info"/>
+          <include name="CloseEmulator"/>
+          <include name="CloseEmulator"/>
+          <include name="Step4_Verify_User_Able_To_Add_Product_To_Cart"/>
+          <include name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page"/>
+          <include name="Step10_Switch_To_Web_View"/>
+          <include name="Step8_Click_Send_Me_Email_And_Verify_Satus"/>
+        </methods>
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest2 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

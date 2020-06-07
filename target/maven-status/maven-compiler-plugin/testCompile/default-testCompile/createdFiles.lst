@@ -1,0 +1,15 @@
+AppiumTests\extentReport\TestListener.class
+AppiumTests\automation\CreateTestSession.class
+AppiumTests\GeneralStore\actions\LoginPageAction.class
+AppiumTests\automation\CreateTestEmulator.class
+AppiumTests\automation\GlobalPropertyReader.class
+AppiumTests\GeneralStore\actions\CheckOutPage.class
+AppiumTests\automation\CustomFeatures.class
+AppiumTests\extentReport\ExtentManager.class
+AppiumTests\automation\UtilityClass.class
+AppiumTests\GeneralStore\test\GeneralStoreBasicTest.class
+AppiumTests\GeneralStore\test\GeneralStoreBasicTest2.class
+AppiumTests\automation\PortFinder.class
+AppiumTests\automation\GetPageElement.class
+AppiumTests\GeneralStore\actions\ProductPageAction.class
+AppiumTests\extentReport\ExtentTestManager.class

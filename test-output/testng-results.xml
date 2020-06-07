@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="40" failed="0" total="40" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="778" started-at="2020-06-07T08:17:49Z" finished-at="2020-06-07T08:17:50Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="741" started-at="2020-06-07T08:17:49Z" finished-at="2020-06-07T08:17:50Z">
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest">
+        <test-method status="SKIP" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="SKIP" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step10_Switch_To_Web_View" duration-ms="3" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="SKIP" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step1_Verify_User_is_On_Application" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="SKIP" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="SKIP" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="SKIP" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="SKIP" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="4" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="SKIP" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="11" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="1" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="0" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="SKIP" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="Step9_Click_Visit_To_Website_Button" duration-ms="2" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="FAIL" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3f3afe78]" name="TerminnateSession" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest.TerminnateSession(GeneralStoreBasicTest.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:232)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:115)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest -->
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2">
+        <test-method status="FAIL" signature="beforeTest(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.automation.CreateTestEmulator.<init>(CreateTestEmulator.java:41)
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.beforeTest(GeneralStoreBasicTest2.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:656)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="SKIP" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="SKIP" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step10_Switch_To_Web_View" duration-ms="448" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step1_Verify_User_is_On_Application" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="2" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="18" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="2" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="2" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="7" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="2" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="Step9_Click_Visit_To_Website_Button" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="FAIL" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="TerminnateSession" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.TerminnateSession(GeneralStoreBasicTest2.java:122)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:232)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:115)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+        <test-method status="FAIL" signature="CloseEmulator(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@880ec60]" name="CloseEmulator" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.CloseEmulator(GeneralStoreBasicTest2.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.TestRunner.afterRun(TestRunner.java:1012)
+	at org.testng.TestRunner.run(TestRunner.java:636)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseEmulator -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest2 -->
+    </test> <!-- Tests -->
+    <test name="Test1" duration-ms="778" started-at="2020-06-07T08:17:49Z" finished-at="2020-06-07T08:17:50Z">
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest">
+        <test-method status="SKIP" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="SKIP" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step10_Switch_To_Web_View" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="SKIP" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step1_Verify_User_is_On_Application" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="SKIP" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="3" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="SKIP" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="SKIP" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="SKIP" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="SKIP" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="3" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="1" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="1" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="SKIP" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="Step9_Click_Visit_To_Website_Button" duration-ms="1" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="FAIL" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@35f983a6]" name="TerminnateSession" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest.TerminnateSession(GeneralStoreBasicTest.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:232)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:115)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest -->
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2">
+        <test-method status="FAIL" signature="beforeTest(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator2]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.automation.CreateTestEmulator.<init>(CreateTestEmulator.java:41)
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.beforeTest(GeneralStoreBasicTest2.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:656)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="SKIP" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="SKIP" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step10_Switch_To_Web_View" duration-ms="438" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step1_Verify_User_is_On_Application" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="3" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="3" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="2" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="2" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="4" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="1" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="SKIP" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="Step9_Click_Visit_To_Website_Button" duration-ms="3" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="SKIP" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="FAIL" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="TerminnateSession" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:49Z" finished-at="2020-06-07T13:47:49Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.TerminnateSession(GeneralStoreBasicTest2.java:122)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:232)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:115)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+        <test-method status="FAIL" signature="CloseEmulator(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@60f82f98]" name="CloseEmulator" is-config="true" duration-ms="0" started-at="2020-06-07T13:47:50Z" finished-at="2020-06-07T13:47:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator2]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.CloseEmulator(GeneralStoreBasicTest2.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.TestRunner.afterRun(TestRunner.java:1012)
+	at org.testng.TestRunner.run(TestRunner.java:636)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseEmulator -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+NavigateBackIcon: id : appbar_btn_back
+AddProductToCart: xpath : //android.widget.TextView[@text='#{ProductName}']/..//*[@text='ADD TO CART']
+ProductCountOnAddToCart: id : counterText
+AddToCartIcon: id : appbar_btn_cart
+

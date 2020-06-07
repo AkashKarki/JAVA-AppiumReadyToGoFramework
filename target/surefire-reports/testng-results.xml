@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="40" passed="40">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="676197" started-at="2020-06-07T08:05:57Z" finished-at="2020-06-07T08:17:13Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="605720" started-at="2020-06-07T08:05:57Z" finished-at="2020-06-07T08:16:02Z">
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="beforeClass" is-config="true" duration-ms="66655" started-at="2020-06-07T13:42:54Z" finished-at="2020-06-07T13:44:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step10_Switch_To_Web_View" duration-ms="0" started-at="2020-06-07T13:44:00Z" finished-at="2020-06-07T13:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="PASS" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step1_Verify_User_is_On_Application" duration-ms="4654" started-at="2020-06-07T13:44:00Z" finished-at="2020-06-07T13:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="PASS" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="21637" started-at="2020-06-07T13:44:05Z" finished-at="2020-06-07T13:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="PASS" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="7970" started-at="2020-06-07T13:44:26Z" finished-at="2020-06-07T13:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="PASS" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="22998" started-at="2020-06-07T13:44:34Z" finished-at="2020-06-07T13:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="PASS" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="26105" started-at="2020-06-07T13:44:57Z" finished-at="2020-06-07T13:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="PASS" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="299" started-at="2020-06-07T13:45:24Z" finished-at="2020-06-07T13:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="PASS" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="14736" started-at="2020-06-07T13:45:24Z" finished-at="2020-06-07T13:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="PASS" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="1219" started-at="2020-06-07T13:45:39Z" finished-at="2020-06-07T13:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="PASS" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="Step9_Click_Visit_To_Website_Button" duration-ms="293" started-at="2020-06-07T13:45:40Z" finished-at="2020-06-07T13:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="PASS" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c]" name="TerminnateSession" is-config="true" duration-ms="3686" started-at="2020-06-07T13:45:40Z" finished-at="2020-06-07T13:45:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest -->
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="beforeTest" is-config="true" duration-ms="142087" started-at="2020-06-07T13:35:57Z" finished-at="2020-06-07T13:38:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="beforeClass" is-config="true" duration-ms="167646" started-at="2020-06-07T13:38:19Z" finished-at="2020-06-07T13:41:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step10_Switch_To_Web_View" duration-ms="374" started-at="2020-06-07T13:41:06Z" finished-at="2020-06-07T13:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:41:07Z" finished-at="2020-06-07T13:41:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step10_Switch_To_Web_View status=SUCCESS method=GeneralStoreBasicTest2.Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step1_Verify_User_is_On_Application" duration-ms="3872" started-at="2020-06-07T13:41:07Z" finished-at="2020-06-07T13:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:41:11Z" finished-at="2020-06-07T13:41:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step1_Verify_User_is_On_Application status=SUCCESS method=GeneralStoreBasicTest2.Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="22394" started-at="2020-06-07T13:41:11Z" finished-at="2020-06-07T13:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:41:33Z" finished-at="2020-06-07T13:41:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step2_Verify_User_is_Able_To_Login status=SUCCESS method=GeneralStoreBasicTest2.Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="7441" started-at="2020-06-07T13:41:33Z" finished-at="2020-06-07T13:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="PASS" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="26558" started-at="2020-06-07T13:41:41Z" finished-at="2020-06-07T13:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:41:41Z" finished-at="2020-06-07T13:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step3_Verify_Error_Message_On_Incorrect_Info status=SUCCESS method=GeneralStoreBasicTest2.Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="25484" started-at="2020-06-07T13:42:07Z" finished-at="2020-06-07T13:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:42:07Z" finished-at="2020-06-07T13:42:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step4_Verify_User_Able_To_Add_Product_To_Cart status=SUCCESS method=GeneralStoreBasicTest2.Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="1" started-at="2020-06-07T13:42:33Z" finished-at="2020-06-07T13:42:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount status=SUCCESS method=GeneralStoreBasicTest2.Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="347" started-at="2020-06-07T13:42:33Z" finished-at="2020-06-07T13:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="PASS" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="14966" started-at="2020-06-07T13:42:33Z" finished-at="2020-06-07T13:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:42:33Z" finished-at="2020-06-07T13:42:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step6_Verify_Price_Of_Product_On_Check_Out_Page status=SUCCESS method=GeneralStoreBasicTest2.Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="1134" started-at="2020-06-07T13:42:48Z" finished-at="2020-06-07T13:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:42:48Z" finished-at="2020-06-07T13:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step7_Verify_Terms_And_Conditions_On_Check_Out_Page status=SUCCESS method=GeneralStoreBasicTest2.Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="Step9_Click_Visit_To_Website_Button" duration-ms="259" started-at="2020-06-07T13:42:49Z" finished-at="2020-06-07T13:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:42:49Z" finished-at="2020-06-07T13:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step8_Click_Send_Me_Email_And_Verify_Satus status=SUCCESS method=GeneralStoreBasicTest2.Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:42:49Z" finished-at="2020-06-07T13:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step9_Click_Visit_To_Website_Button status=SUCCESS method=GeneralStoreBasicTest2.Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="TerminnateSession" is-config="true" duration-ms="4190" started-at="2020-06-07T13:42:49Z" finished-at="2020-06-07T13:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+        <test-method status="PASS" signature="CloseEmulator(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f]" name="CloseEmulator" is-config="true" duration-ms="18626" started-at="2020-06-07T13:45:44Z" finished-at="2020-06-07T13:46:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseEmulator -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest2 -->
+    </test> <!-- Tests -->
+    <test name="Test1" duration-ms="676197" started-at="2020-06-07T08:05:57Z" finished-at="2020-06-07T08:17:13Z">
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="beforeClass" is-config="true" duration-ms="68528" started-at="2020-06-07T13:44:24Z" finished-at="2020-06-07T13:45:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step10_Switch_To_Web_View" duration-ms="0" started-at="2020-06-07T13:45:32Z" finished-at="2020-06-07T13:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="PASS" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step1_Verify_User_is_On_Application" duration-ms="3164" started-at="2020-06-07T13:45:32Z" finished-at="2020-06-07T13:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="PASS" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="19433" started-at="2020-06-07T13:45:35Z" finished-at="2020-06-07T13:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="PASS" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="7476" started-at="2020-06-07T13:45:55Z" finished-at="2020-06-07T13:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="PASS" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="20628" started-at="2020-06-07T13:46:02Z" finished-at="2020-06-07T13:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="PASS" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="18459" started-at="2020-06-07T13:46:23Z" finished-at="2020-06-07T13:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="PASS" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="238" started-at="2020-06-07T13:46:41Z" finished-at="2020-06-07T13:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="PASS" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="14332" started-at="2020-06-07T13:46:42Z" finished-at="2020-06-07T13:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="PASS" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="843" started-at="2020-06-07T13:46:56Z" finished-at="2020-06-07T13:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="PASS" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="Step9_Click_Visit_To_Website_Button" duration-ms="151" started-at="2020-06-07T13:46:57Z" finished-at="2020-06-07T13:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="PASS" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest@2096442d]" name="TerminnateSession" is-config="true" duration-ms="2536" started-at="2020-06-07T13:46:57Z" finished-at="2020-06-07T13:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest -->
+      <class name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="beforeTest" is-config="true" duration-ms="140748" started-at="2020-06-07T13:35:57Z" finished-at="2020-06-07T13:38:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="beforeClass" is-config="true" duration-ms="258798" started-at="2020-06-07T13:38:17Z" finished-at="2020-06-07T13:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step10_Switch_To_Web_View" duration-ms="1" started-at="2020-06-07T13:42:36Z" finished-at="2020-06-07T13:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step10_Switch_To_Web_View -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:42:36Z" finished-at="2020-06-07T13:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step10_Switch_To_Web_View status=SUCCESS method=GeneralStoreBasicTest2.Step10_Switch_To_Web_View()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step1_Verify_User_is_On_Application" duration-ms="4098" started-at="2020-06-07T13:42:36Z" finished-at="2020-06-07T13:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_Verify_User_is_On_Application -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="1" started-at="2020-06-07T13:42:40Z" finished-at="2020-06-07T13:42:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step1_Verify_User_is_On_Application status=SUCCESS method=GeneralStoreBasicTest2.Step1_Verify_User_is_On_Application()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step2_Verify_User_is_Able_To_Login" duration-ms="21825" started-at="2020-06-07T13:42:40Z" finished-at="2020-06-07T13:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_Verify_User_is_Able_To_Login -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:43:02Z" finished-at="2020-06-07T13:43:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step2_Verify_User_is_Able_To_Login status=SUCCESS method=GeneralStoreBasicTest2.Step2_Verify_User_is_Able_To_Login()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step3_Verify_Error_Message_On_Incorrect_Info" duration-ms="7832" started-at="2020-06-07T13:43:02Z" finished-at="2020-06-07T13:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_Verify_Error_Message_On_Incorrect_Info -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:43:10Z" finished-at="2020-06-07T13:43:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step3_Verify_Error_Message_On_Incorrect_Info status=SUCCESS method=GeneralStoreBasicTest2.Step3_Verify_Error_Message_On_Incorrect_Info()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step4_Verify_User_Able_To_Add_Product_To_Cart" duration-ms="26446" started-at="2020-06-07T13:43:10Z" finished-at="2020-06-07T13:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_Verify_User_Able_To_Add_Product_To_Cart -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:43:37Z" finished-at="2020-06-07T13:43:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step4_Verify_User_Able_To_Add_Product_To_Cart status=SUCCESS method=GeneralStoreBasicTest2.Step4_Verify_User_Able_To_Add_Product_To_Cart()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount" duration-ms="26219" started-at="2020-06-07T13:43:37Z" finished-at="2020-06-07T13:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="2" started-at="2020-06-07T13:44:03Z" finished-at="2020-06-07T13:44:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount status=SUCCESS method=GeneralStoreBasicTest2.Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step6_Verify_Price_Of_Product_On_Check_Out_Page" duration-ms="290" started-at="2020-06-07T13:44:03Z" finished-at="2020-06-07T13:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_Verify_Price_Of_Product_On_Check_Out_Page -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:44:03Z" finished-at="2020-06-07T13:44:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step6_Verify_Price_Of_Product_On_Check_Out_Page status=SUCCESS method=GeneralStoreBasicTest2.Step6_Verify_Price_Of_Product_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step7_Verify_Terms_And_Conditions_On_Check_Out_Page" duration-ms="15203" started-at="2020-06-07T13:44:03Z" finished-at="2020-06-07T13:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step7_Verify_Terms_And_Conditions_On_Check_Out_Page -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:44:18Z" finished-at="2020-06-07T13:44:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step7_Verify_Terms_And_Conditions_On_Check_Out_Page status=SUCCESS method=GeneralStoreBasicTest2.Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step8_Click_Send_Me_Email_And_Verify_Satus" duration-ms="1136" started-at="2020-06-07T13:44:18Z" finished-at="2020-06-07T13:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step8_Click_Send_Me_Email_And_Verify_Satus -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:44:19Z" finished-at="2020-06-07T13:44:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step8_Click_Send_Me_Email_And_Verify_Satus status=SUCCESS method=GeneralStoreBasicTest2.Step8_Click_Send_Me_Email_And_Verify_Satus()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="Step9_Click_Visit_To_Website_Button" duration-ms="224" started-at="2020-06-07T13:44:19Z" finished-at="2020-06-07T13:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step9_Click_Visit_To_Website_Button -->
+        <test-method status="PASS" signature="onFailure(org.testng.ITestResult)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="onFailure" is-config="true" duration-ms="0" started-at="2020-06-07T13:44:20Z" finished-at="2020-06-07T13:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step9_Click_Visit_To_Website_Button status=SUCCESS method=GeneralStoreBasicTest2.Step9_Click_Visit_To_Website_Button()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFailure -->
+        <test-method status="PASS" signature="TerminnateSession()[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="TerminnateSession" is-config="true" duration-ms="3974" started-at="2020-06-07T13:44:20Z" finished-at="2020-06-07T13:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminnateSession -->
+        <test-method status="PASS" signature="CloseEmulator(java.lang.String)[pri:0, instance:AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@2c9f9fb0]" name="CloseEmulator" is-config="true" duration-ms="13533" started-at="2020-06-07T13:46:59Z" finished-at="2020-06-07T13:47:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestEmulator2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseEmulator -->
+      </class> <!-- AppiumTests.GeneralStore.test.GeneralStoreBasicTest2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

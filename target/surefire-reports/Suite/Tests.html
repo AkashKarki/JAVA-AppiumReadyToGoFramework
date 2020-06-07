@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>TestNG:  Tests</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Tests</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Jun 07 13:35:57 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>605 seconds (605720 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step10_Switch_To_Web_View()'><b>Step10_Switch_To_Web_View</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>0</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step10_Switch_To_Web_View()'><b>Step10_Switch_To_Web_View</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>0</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step1_Verify_User_is_On_Application()'><b>Step1_Verify_User_is_On_Application</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>3</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step1_Verify_User_is_On_Application()'><b>Step1_Verify_User_is_On_Application</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>4</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step2_Verify_User_is_Able_To_Login()'><b>Step2_Verify_User_is_Able_To_Login</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>22</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step2_Verify_User_is_Able_To_Login()'><b>Step2_Verify_User_is_Able_To_Login</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>21</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step3_Verify_Error_Message_On_Incorrect_Info()'><b>Step3_Verify_Error_Message_On_Incorrect_Info</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>7</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step3_Verify_Error_Message_On_Incorrect_Info()'><b>Step3_Verify_Error_Message_On_Incorrect_Info</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>7</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step4_Verify_User_Able_To_Add_Product_To_Cart()'><b>Step4_Verify_User_Able_To_Add_Product_To_Cart</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>26</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step4_Verify_User_Able_To_Add_Product_To_Cart()'><b>Step4_Verify_User_Able_To_Add_Product_To_Cart</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>22</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()'><b>Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>25</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount()'><b>Step5_Verify_User_Able_To_Add_Multiple_Project_And_CheckOut_Ammount</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>26</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step6_Verify_Price_Of_Product_On_Check_Out_Page()'><b>Step6_Verify_Price_Of_Product_On_Check_Out_Page</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>0</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step6_Verify_Price_Of_Product_On_Check_Out_Page()'><b>Step6_Verify_Price_Of_Product_On_Check_Out_Page</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>0</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()'><b>Step7_Verify_Terms_And_Conditions_On_Check_Out_Page</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>14</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step7_Verify_Terms_And_Conditions_On_Check_Out_Page()'><b>Step7_Verify_Terms_And_Conditions_On_Check_Out_Page</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>14</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step8_Click_Send_Me_Email_And_Verify_Satus()'><b>Step8_Click_Send_Me_Email_And_Verify_Satus</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>1</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step8_Click_Send_Me_Email_And_Verify_Satus()'><b>Step8_Click_Send_Me_Email_And_Verify_Satus</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>1</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest2.Step9_Click_Visit_To_Website_Button()'><b>Step9_Click_Visit_To_Website_Button</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest2</td>
+<td></td>
+<td>0</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest2@6be46e8f</td></tr>
+<tr>
+<td title='AppiumTests.GeneralStore.test.GeneralStoreBasicTest.Step9_Click_Visit_To_Website_Button()'><b>Step9_Click_Visit_To_Website_Button</b><br>Test class: AppiumTests.GeneralStore.test.GeneralStoreBasicTest</td>
+<td></td>
+<td>0</td>
+<td>AppiumTests.GeneralStore.test.GeneralStoreBasicTest@3567135c</td></tr>
+</table><p>
+</body>
+</html>
