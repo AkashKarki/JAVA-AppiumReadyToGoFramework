@@ -10,12 +10,12 @@
 		<classes>
 			<class
 				name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2" />
-			<class
+			<!-- <class
 				name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest" />
-		</classes>
+		</classes> -->
 	</test>
 
-	<test name="Test1" thread-count="1" preserve-order="true" parallel="false">
+	<!-- <test name="Test1" thread-count="1" preserve-order="true" parallel="false">
 		<parameter name="DeviceName" value="TestEmulator2" />
 		<classes>
 			<class
@@ -23,5 +23,5 @@
 			<class
 				name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest" />
 		</classes>
-	</test>
+	</test> -->
 </suite> 
