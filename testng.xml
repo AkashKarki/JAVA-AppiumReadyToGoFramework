@@ -11,8 +11,8 @@
 			<class
 				name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest2" />
 			<!-- <class
-				name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest" />
-		</classes> -->
+				name="AppiumTests.GeneralStore.test.GeneralStoreBasicTest" />-->
+		</classes> 
 	</test>
 
 	<!-- <test name="Test1" thread-count="1" preserve-order="true" parallel="false">
